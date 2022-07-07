@@ -1,3 +1,4 @@
+#this is online shopping based on python
 #python loops
 '''fruits =['apple','grapes','cherry']
 for x in fruits:
