@@ -1,3 +1,4 @@
+#this code gives overview on tuples
 '''tuples=['potato','tomato','brinjal']
 print(tuples)'''
 
